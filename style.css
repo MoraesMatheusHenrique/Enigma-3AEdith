@@ -12,7 +12,6 @@ header {
 }
 
 header h1 {
-    margin: 0;
     text-align: center;
 }
 
@@ -48,6 +47,6 @@ footer {
     bottom: 0;
     width: 100%;
 }
-section .trailer {
+section #trailer {
     text-align: center;
 }
